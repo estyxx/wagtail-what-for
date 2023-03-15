@@ -1,0 +1,15 @@
+[tool.pdm]
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "", email = ""},
+]
+dependencies = [
+    "Django>=4.1.7",
+    "wagtail>=4.2.1",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
